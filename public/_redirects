@@ -1,1 +1,2 @@
-https://:subdomain.example.com/*  https://:subdomain.fast.example.com/:splat  200
+# 将 *.f.example.com/* 转发到 *.example.com/*
+https://:subdomain.f.example.com/*  https://:subdomain.example.com/:splat  200
