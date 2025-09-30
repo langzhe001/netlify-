@@ -1,0 +1,1 @@
+https://:subdomain.example.com/*  https://:subdomain.fast.example.com/:splat  200
