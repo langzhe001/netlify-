@@ -1,2 +1,2 @@
-# 将 *.f.example.com/* 转发到 *.example.com/*
-https://:subdomain.f.3652412.xyz/*  https://:subdomain.3652412.xyz/:splat  200
+/:sub/*  https://:sub.3652412.xyz/:splat  200
+https://:sub.f.3652412.xyz/*  https://:sub.3652412.xyz/:splat  200
